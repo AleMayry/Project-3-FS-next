@@ -7,7 +7,8 @@ export const metadata: Metadata = {
     template: '%s | Acme Dashboard',
     default: 'Acme Dashboard',
   },
-  icons: 'favicon.ico',
+  icons: '/favicon.ico',
+
   description: 'The official Next.js Learn Dashboard built with App Router.',
   metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
   
@@ -20,6 +21,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head><link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="48x48"/></head>
       <body className={`${inter.className} antialiased`}>{children}</body>
     </html>
   );
