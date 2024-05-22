@@ -63,9 +63,13 @@ Web-sovelluksessa komponentit (React) ja niiden tyylit oli määritelty etukäte
    ![A screenshot of vercel database](media/Aspose.Words.18c97cf8-2efa-4306-99ad-e8c4844384da.008.png)
 
 
-## Linkit
-# Verkkosivuni osoite 
+# Linkit
+## Verkkosivuni osoite 
 <https://project-3-fs-next.vercel.app/> 
-# Linkki GitHub repositorioon
+
+Verkkosivulle pääsee kirjautumaan demokäyttäjänä tunnuksilla Email: <user@nextmail.com> Password: 123456
+
+## Linkki GitHub repositorioon
 <https://github.com/AleMayry/Project-3-FS-next> 
-# Linkki projektin videoesitykseen
+
+## Linkki projektin videoesitykseen
